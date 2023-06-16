@@ -6,7 +6,6 @@ This is a simple weather application built using Python and the Tkinter library.
 - Tkinter library
 - requests library
 - PIL (Python Imaging Library) library
-- ttkbootstrap library
 
 ## Installation
 
